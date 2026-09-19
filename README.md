@@ -81,32 +81,34 @@ cd OnRoad
 2. Crear y activar el entorno virtual (Virtual Environment)
 
 En Windows:
-
+```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 
 En Linux / macOS:
-
+```bash
 python3 -m venv venv
 source venv/bin/activate
-
+```
 
 3. Instalar las dependencias
 
 Una vez activado el entorno virtual, instala Pygame y el motor Gale directamente desde su repositorio de GitHub:
-
+```bash
 pip install pygame
 pip install git+https://github.com/R3mmurd/Gale
+```
 
 
 4. Ejecutar el juego
-
+```bash
 python main.py
+```
 
 
 📁 Distribución de Carpetas
-
+```
 OnRoad/
 │
 ├── assets/                 # Recursos multimedia del juego
@@ -131,3 +133,4 @@ OnRoad/
 ├── main.py                 # Punto de entrada de la aplicación
 ├── save_data.json          # Datos persistentes adicionales
 └── settings.py             # Configuraciones globales, inputs, colores y constantes
+```

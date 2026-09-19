@@ -74,7 +74,7 @@ Para jugar, necesitas tener Python 3.9 o superior instalado en tu sistema. Se re
 
 1. Clonar el repositorio
 
-git clone <URL_DE_TU_REPOSITORIO>
+git clone <https://github.com/frankz19/OnRoad>
 cd OnRoad
 
 

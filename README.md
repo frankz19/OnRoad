@@ -1,6 +1,6 @@
-OnRoad & Freestyle Racing 🏍️🏁
+OnRoad
 
-¡Bienvenido a OnRoad & Freestyle Racing! Un emocionante juego de motocicletas en 2D que combina la tensión de la supervivencia en carretera con la adrenalina de las carreras de acrobacias con físicas realistas.
+¡Bienvenido a OnRoad Un emocionante juego de motocicletas en 2D que combina la tensión de la supervivencia en carretera con la adrenalina de las carreras de acrobacias con físicas realistas.
 
 Este proyecto fue desarrollado utilizando Python y el framework Gale (Game Architecture & Logic Engine), basado en Pygame.
 
@@ -73,10 +73,10 @@ Entrada (Input): Centralizado a través de gale.input_handler, mapeando teclas f
 Para jugar, necesitas tener Python 3.9 o superior instalado en tu sistema. Se recomienda encarecidamente utilizar un entorno virtual.
 
 1. Clonar el repositorio
-
+```bash
 git clone <https://github.com/frankz19/OnRoad>
 cd OnRoad
-
+```
 
 2. Crear y activar el entorno virtual (Virtual Environment)
 

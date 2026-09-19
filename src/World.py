@@ -9,8 +9,8 @@ class World:
         self.background_x: float = 0.0
         self.ground_x: float = 0.0
         
-        # TODO: Más adelante agregaremos las listas para 
-        # Obstáculos (Piedras/Charcos) y Recursos (Gasolina)
+        
+        # Obstáculos (Piedras/Troncos) y Recursos (Gasolina)
         self.obstacles = []
         self.items = []
         self.spawn_timer = 0.0
